@@ -3,7 +3,7 @@
 <div class="bio">
   <p> I am a programming and technology enthusiast, currently working as a data analyst and getting back into coding. 🏃‍♂️ 
   <p>Apart from coding, my technology interests mainly revolve around Cyber Security :suspect:, Hardware 🪛 and Gaming 🎮.
-  <p> Other interests are learning new languages 📚 (日本語 atm), also playing the drums. 🥁
+  <p> Outside of tech, I love learning new languages 📚 (日本語 atm), also playing the drums. 🥁
 </div>
 <br>
 <div class="githubstats">
