@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world, I'm Thales!👋
 
 <div class="badges-githubstats">
   <p align="center">
