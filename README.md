@@ -1,6 +1,7 @@
 ## Hello world, I'm Thales!👋
 
-<p> I am a programming and technology enthusiast, currently working as a data analyst and getting back into coding.
+<p> I am a programming and technology enthusiast, currently working as a data analyst and getting back into coding. 🏃‍♂️
+<p> Apart from coding, my technology interests mainly revolve around Cyber Security :suspect:, Hardware 🪛 and Gaming 🎮.
 <br>
 <div class="badges-githubstats">
   <p align="center">
